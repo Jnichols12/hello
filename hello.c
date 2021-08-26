@@ -3,7 +3,7 @@
  *         jnichols12@huskers.unl.edu
  * Date: 8/25/2021
  *
- * A simple program that prints my name
+ * A simple program that prints my name & major
  *
  */
 
@@ -12,7 +12,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Jake Nichols\n");
+    printf("Jake Nichols!!!\n");
+    printf("Computer Science\n");
 
     return 0;
 
